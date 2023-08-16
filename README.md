@@ -1,4 +1,5 @@
 <h1 align="center">AADAB 👋, I'm MOHD AMAAN ALI</h1>
+![Black Technology LinkedIn Banner (1)]( https://github.com/MdAmaanali/MDAMAANALI/blob/main/assalamualeykum.png)
 <div align="centre"> <img src="http://raw.githubusercontent.com/MdAmaanali/main/assalamualeykum.png"> </div>
 <h3 align="center">A passionate web developer from India</h3>
 <img align= "right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/7897cf59829609.5a30d8bbc7187.gif>
