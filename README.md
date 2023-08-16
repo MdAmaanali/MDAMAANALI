@@ -1,8 +1,8 @@
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/85859444/237395494-beffffa6-9a52-401d-bd37-1ffd3dd2050b.png"><img src="https://user-images.githubusercontent.com//MdAmaanali/MDAMAANALI/blob/main/assalamualeykum.png" alt="Black Technology LinkedIn Banner (1)" style="max-width: 100%;"></a>
 <h1 align="center">AADAB 👋, I'm MOHD AMAAN ALI</h1>
-![Black Technology LinkedIn Banner (1)]( https://github.com/MdAmaanali/MDAMAANALI/blob/main/assalamualeykum.png)
 <div align="centre"> <img src="http://raw.githubusercontent.com/MdAmaanali/main/assalamualeykum.png"> </div>
 <h3 align="center">A passionate web developer from India</h3>
-<img align= "right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/7897cf59829609.5a30d8bbc7187.gif>
+<img align="right" alt="Coding" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdamaanali&label=Profile%20views&color=0e75b6&style=flat" alt="mdamaanali" /> </p>
